@@ -2,6 +2,7 @@
 
 
 ## Coin Change
+- Given types of coins and target amount, make a function that returns the least number of coins to make that target amount, using Dynamic Programming.
 ### Top Down
 - Time complexity: $$O(\text{Amount} \times \text{Types of Coins})$$
 - Space complexity: $$O(\text{Amount})$$
