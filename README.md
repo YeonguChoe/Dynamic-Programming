@@ -3,7 +3,7 @@
 
 ## Coin Change
 ### Top Down
-- Time complexity: $$O(Amount \times Types of Coins)$$
+- Time complexity: $$O(\text{Amount} \times \text{Types of Coins})$$
 ```cpp
 // Time complexity: O(amount*(coins.size()))
 // Space complexity: O(amount)
